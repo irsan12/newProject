@@ -2,10 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>baru</title>
+    <title></title>
   </head>
   <body>
-asas
-asd
+
   </body>
 </html>
